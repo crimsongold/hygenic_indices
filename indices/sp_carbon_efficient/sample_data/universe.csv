@@ -1,0 +1,46 @@
+ticker,company_name,country,gics_sector,gics_industry_group,market_cap_usd,float_ratio,carbon_intensity
+MSFT,Microsoft Corp,US,Information Technology,Software & Services,392306011458.71,0.722,7.1
+AAPL,Apple Inc,US,Information Technology,Technology Hardware & Equipment,39509360240.95,0.852,12.9
+GOOGL,Alphabet Inc,US,Information Technology,Software & Services,263019181779.12,0.721,
+AMZN,Amazon.com Inc,US,Consumer Discretionary,Retailing,257588917539.8,0.948,
+META,Meta Platforms,US,Information Technology,Software & Services,378322767331.33,0.984,9.0
+NVDA,NVIDIA Corp,US,Information Technology,Technology Hardware & Equipment,585871787827.79,0.714,13.7
+JNJ,Johnson & Johnson,US,Health Care,Pharmaceuticals Biotechnology & Life Sciences,90831774597.68,0.735,18.0
+UNH,UnitedHealth Group,US,Health Care,Health Care Equipment & Services,112532196054.74,0.874,41.7
+JPM,JPMorgan Chase,US,Financials,Banks,330907957097.19,0.719,8.7
+BAC,Bank of America,US,Financials,Banks,127545434127.5,0.904,
+WFC,Wells Fargo,US,Financials,Banks,353409308787.05,0.836,7.7
+GS,Goldman Sachs,US,Financials,Diversified Financials,420901688069.09,0.773,16.3
+TSLA,Tesla Inc,US,Consumer Discretionary,Consumer Durables & Apparel,525706809866.19,0.919,46.8
+HD,Home Depot,US,Consumer Discretionary,Retailing,75249138061.7,0.825,78.6
+BA,Boeing Co,US,Industrials,Capital Goods,295933044783.1,0.712,55.8
+CAT,Caterpillar Inc,US,Industrials,Capital Goods,345950434465.04,0.963,160.0
+GE,General Electric,US,Industrials,Capital Goods,358650076877.49,0.874,148.2
+MMM,3M Company,US,Industrials,Capital Goods,567085251589.22,0.842,172.8
+SAP,SAP SE,DE,Information Technology,Software & Services,422387752676.13,0.894,4.6
+ASML,ASML Holding,NL,Information Technology,Technology Hardware & Equipment,174334341596.02,0.816,25.2
+NESN,Nestle SA,CH,Consumer Discretionary,Consumer Durables & Apparel,279708695348.36,0.75,11.6
+ROG,Roche Holding,CH,Health Care,Pharmaceuticals Biotechnology & Life Sciences,462098628141.15,0.739,7.7
+NOVN,Novartis AG,CH,Health Care,Pharmaceuticals Biotechnology & Life Sciences,523496074605.15,0.724,22.6
+SIE,Siemens AG,DE,Industrials,Capital Goods,530613376732.7,0.946,123.4
+MC,LVMH,FR,Consumer Discretionary,Consumer Durables & Apparel,252101427740.96,0.808,29.5
+TM,Toyota Motor,JP,Consumer Discretionary,Consumer Durables & Apparel,94797938945.71,0.753,77.0
+6758,Sony Group,JP,Consumer Discretionary,Consumer Durables & Apparel,293552824553.11,0.877,26.3
+RIO,Rio Tinto,GB,Materials,Materials,254273168169.57,0.811,101.6
+BHP,BHP Group,AU,Materials,Materials,415843725995.91,0.855,481.2
+XOM,ExxonMobil,US,Energy,Energy,37125771468.16,0.97,673.3
+CVX,Chevron Corp,US,Energy,Energy,479734507111.96,0.818,812.2
+SHEL,Shell PLC,GB,Energy,Energy,382402291583.0,0.719,272.5
+TTE,TotalEnergies,FR,Energy,Energy,129214095340.47,0.749,
+BP,BP PLC,GB,Energy,Energy,5138802731.31,0.745,236.8
+ABB,ABB Ltd,CH,Industrials,Capital Goods,20173027566.36,0.962,91.8
+AZN,AstraZeneca,GB,Health Care,Pharmaceuticals Biotechnology & Life Sciences,155093365151.46,0.804,11.7
+HSBA,HSBC Holdings,GB,Financials,Banks,510117471258.35,0.998,4.2
+PRU,Prudential PLC,GB,Financials,Diversified Financials,56101373625.92,0.731,10.7
+ADBE,Adobe Inc,US,Information Technology,Software & Services,498168949982.33,0.748,10.1
+CRM,Salesforce Inc,US,Information Technology,Software & Services,570836415860.45,0.858,
+LIN,Linde PLC,GB,Materials,Materials,21090282396.19,0.858,317.3
+PKX,POSCO Holdings,KR,Materials,Materials,419237087615.14,0.778,445.3
+NEE,NextEra Energy,US,Utilities,Utilities,464303055499.21,0.86,258.6
+DUK,Duke Energy,US,Utilities,Utilities,137709795496.4,0.943,364.3
+SO,Southern Company,US,Utilities,Utilities,484616757947.47,0.945,704.2

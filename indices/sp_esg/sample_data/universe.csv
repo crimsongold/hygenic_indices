@@ -1,0 +1,41 @@
+ticker,company_name,country,gics_sector,gics_industry_group,market_cap_usd,float_ratio,esg_score,has_esg_coverage,ungc_status,msa_flagged,controversial_weapons_revenue_pct,controversial_weapons_ownership_pct,tobacco_production_revenue_pct,tobacco_retail_revenue_pct,thermal_coal_extraction_revenue_pct,thermal_coal_power_revenue_pct,small_arms_manufacture_revenue_pct,small_arms_retail_revenue_pct
+MSFT,Microsoft Corp,US,Information Technology,Software & Services,513344304774.02,0.742,,0,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AAPL,Apple Inc,US,Information Technology,Technology Hardware & Equipment,86483665056.35,0.709,58.2,1,No Coverage,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GOOGL,Alphabet Inc,US,Information Technology,Software & Services,178817189968.86,0.91,21.9,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AMZN,Amazon.com Inc,US,Consumer Discretionary,Retailing,338518257664.52,0.748,39.5,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+META,Meta Platforms,US,Information Technology,Software & Services,340978446532.03,0.814,35.1,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NVDA,NVIDIA Corp,US,Information Technology,Technology Hardware & Equipment,290388607485.28,0.861,38.5,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+JNJ,Johnson & Johnson,US,Health Care,Pharmaceuticals Biotechnology & Life Sciences,778627032363.6,0.808,58.6,1,No Coverage,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UNH,UnitedHealth Group,US,Health Care,Health Care Equipment & Services,157869429254.04,0.996,,0,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+JPM,JPMorgan Chase,US,Financials,Banks,684977588207.04,0.809,46.6,1,Watchlist,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BAC,Bank of America,US,Financials,Banks,299293868857.92,0.751,38.7,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+WFC,Wells Fargo,US,Financials,Banks,584655804370.53,0.797,46.6,1,Non-Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GS,Goldman Sachs,US,Financials,Diversified Financials,615809294185.94,0.82,,0,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TSLA,Tesla Inc,US,Consumer Discretionary,Consumer Durables & Apparel,57619941143.18,0.85,59.7,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HD,Home Depot,US,Consumer Discretionary,Retailing,708323107339.93,0.868,30.0,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BA,Boeing Co,US,Industrials,Capital Goods,213879578775.73,0.741,82.8,1,Compliant,0,4.99,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CAT,Caterpillar Inc,US,Industrials,Capital Goods,397345088737.26,0.938,80.3,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GE,General Electric,US,Industrials,Capital Goods,340617173605.75,0.775,,0,Compliant,0,2.87,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MMM,3M Company,US,Industrials,Capital Goods,444814587491.15,0.861,67.6,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SAP,SAP SE,DE,Information Technology,Software & Services,217126026012.27,0.701,27.8,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ASML,ASML Holding,NL,Information Technology,Technology Hardware & Equipment,579063188741.38,0.732,88.0,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NESN,Nestle SA,CH,Consumer Discretionary,Consumer Durables & Apparel,502113653885.3,0.929,55.5,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ROG,Roche Holding,CH,Health Care,Pharmaceuticals Biotechnology & Life Sciences,433806328945.1,0.847,57.1,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NOVN,Novartis AG,CH,Health Care,Pharmaceuticals Biotechnology & Life Sciences,93934841630.11,0.772,89.0,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SIE,Siemens AG,DE,Industrials,Capital Goods,456048770232.68,0.993,,0,Watchlist,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MC,LVMH,FR,Consumer Discretionary,Consumer Durables & Apparel,428501404775.96,0.858,66.2,1,Non-Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TM,Toyota Motor,JP,Consumer Discretionary,Consumer Durables & Apparel,487242164398.69,0.82,85.0,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6758,Sony Group,JP,Consumer Discretionary,Consumer Durables & Apparel,538991132912.44,0.767,83.0,1,Watchlist,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RIO,Rio Tinto,GB,Materials,Materials,273778021907.23,0.912,36.1,1,Compliant,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BHP,BHP Group,AU,Materials,Materials,51804644666.68,0.721,,0,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+XOM,ExxonMobil,US,Energy,Energy,194213684323.35,0.873,35.0,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CVX,Chevron Corp,US,Energy,Energy,198182807704.6,0.827,48.5,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SHEL,Shell PLC,GB,Energy,Energy,376284611089.16,0.94,67.1,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BTI,British American Tobacco,GB,Consumer Discretionary,Consumer Durables & Apparel,91868880634.62,0.784,57.5,1,Compliant,0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0.0
+PM,Philip Morris Intl,US,Consumer Discretionary,Consumer Durables & Apparel,203596126066.27,0.896,51.0,1,Non-Compliant,0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0.0
+RDS,Rio Tinto Spin,GB,Materials,Materials,434767410789.74,0.955,,0,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ABB,ABB Ltd,CH,Industrials,Capital Goods,137217332930.11,0.749,35.0,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AZN,AstraZeneca,GB,Health Care,Pharmaceuticals Biotechnology & Life Sciences,6713525789.38,0.909,84.9,1,Watchlist,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HSBA,HSBC Holdings,GB,Financials,Banks,585751727345.3,0.789,66.3,1,Watchlist,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PRU,Prudential PLC,GB,Financials,Diversified Financials,775123945150.48,0.875,58.0,1,Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ADBE,Adobe Inc,US,Information Technology,Software & Services,404766054421.01,0.756,31.0,1,Non-Compliant,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
