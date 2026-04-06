@@ -117,8 +117,8 @@ hygenic_indices/
 ├── cli.py                              # Click CLI entry point (all index commands)
 ├── pyproject.toml                      # Package metadata and dependencies
 ├── methodologies/                      # Source methodology PDFs from S&P DJI
-├── indices/
 │   ├── downloader.py                   # Methodology PDF catalog + download logic
+├── indices/
 │   ├── sp_carbon_aware/                # S&P Carbon Aware Index Series
 │   │   ├── models.py                   #   Data models (Stock, Universe, etc.)
 │   │   ├── eligibility.py             #   Exclusion filter functions
@@ -176,7 +176,7 @@ hygenic_indices/
 ## Adding a New Index
 
 1. Create `indices/<index_name>/` with the same module structure (`models.py`, `eligibility.py`, `optimization.py` or `weighting.py`, `rebalancer.py`)
-2. Add the methodology PDF to `methodologies/` and register it in `indices/downloader.py`
+2. Add the methodology PDF to `methodologies/` and register it in `methodologies/downloader.py`
 3. Generate a sample universe CSV in `indices/<index_name>/sample_data/`
 4. Add a `tests/<index_name>/` suite
 5. Register a new Click sub-group in `cli.py`

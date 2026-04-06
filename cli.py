@@ -54,7 +54,7 @@ def download_group() -> None:
 )
 def cmd_download_list(dest_dir: Path) -> None:
     """List all methodology PDFs in the catalog and their local status."""
-    from indices.downloader import list_methodologies
+    from methodologies.downloader import list_methodologies
 
     entries = list_methodologies(dest_dir)
 
@@ -103,7 +103,7 @@ def cmd_download_fetch(
     force: bool,
 ) -> None:
     """Download one or all methodology PDFs from the S&P DJI website."""
-    from indices.downloader import (
+    from methodologies.downloader import (
         download_all as _download_all,
         download_methodology,
         METHODOLOGY_CATALOG,
@@ -112,7 +112,7 @@ def cmd_download_fetch(
     if not slug and not download_all:
         raise click.UsageError("Specify --index <slug> or --all.")
 
-    from indices.downloader import DownloadBlockedError
+    from methodologies.downloader import DownloadBlockedError
 
     def _handle_blocked(blocked_url: str) -> None:
         console.print(
