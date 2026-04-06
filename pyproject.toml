@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "hygenic-indices"
+version = "0.1.0"
+description = "S&P index methodology implementations"
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.1",
+    "cvxpy>=1.4",
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "pydantic>=2.0",
+    "rich>=13.7",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=4.1",
+]
+
+[project.scripts]
+hygenic-indices = "cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["indices*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short"
