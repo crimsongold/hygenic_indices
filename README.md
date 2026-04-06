@@ -11,10 +11,10 @@ The goal is to make the business logic of these indices transparent, testable, a
 | Index | Approach | Methodology | Status |
 |---|---|---|---|
 | [S&P Carbon Aware Index Series](indices/sp_carbon_aware/README.md) | Exclusions + cvxpy optimizer (minimize WACI) | March 2026 | ✅ Implemented |
-| [S&P ESG Index Series](indices/sp_esg/README.md) | Exclusions + float-cap rescaling | S&P DJI | ✅ Implemented |
-| [S&P Global Carbon Efficient Index Series](indices/sp_carbon_efficient/README.md) | Carbon efficiency tilt (no exclusions) | S&P DJI | ✅ Implemented |
-| [Dow Jones Sustainability Diversified Indices](indices/djsi_diversified/README.md) | Best-in-class ESG selection + weight cap | S&P DJI | ✅ Implemented |
-| [S&P PACT Indices (CTB/PAB)](indices/sp_pact/README.md) | Exclusions + cvxpy optimizer (minimize tracking error) | S&P DJI | ✅ Implemented |
+| [S&P ESG Index Series](indices/sp_esg/README.md) | Exclusions + float-cap rescaling | March 2026 | ✅ Implemented |
+| [S&P Global Carbon Efficient Index Series](indices/sp_carbon_efficient/README.md) | Carbon efficiency tilt (no exclusions) | November 2025 | ✅ Implemented |
+| [Dow Jones Sustainability Diversified Indices](indices/djsi_diversified/README.md) | Best-in-class ESG selection + weight cap | December 2024 | ✅ Implemented |
+| [S&P PACT Indices (CTB/PAB)](indices/sp_pact/README.md) | Exclusions + cvxpy optimizer (minimize tracking error) | March 2026 | ✅ Implemented |
 
 ---
 
